@@ -1,0 +1,13 @@
+<style>
+.video-js .vjs-fullscreen-control.vjs-control {
+  display: inline!important;
+}
+.video-js .vjs-control-bar .vjs-audio-button {
+    display: inline!important;
+  
+}
+.vjs-quality-menu-wrapper.vjs-menu-button.vjs-menu-button-popup.vjs-control.vjs-button.vjs-quality-menu-button-use-resolution {
+    display: inline!important;
+  
+}
+</style>
